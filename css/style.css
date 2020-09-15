@@ -1,0 +1,31 @@
+body{background-image:url(../img/comida.jpg)}
+h1{font-color:black;
+    font-family:arial;
+    font-size:60px;
+    margin-top:110px;
+
+}
+.link_menu { margin-top:10px;
+        font-size:x-large;
+
+ }
+.link_menu a{ color:black !important; padding:10px;  }
+.link_menu a:hover{ background-color:rgb(117, 24, 24)!important; color:black !important; }
+
+
+.busca2 {
+    text-align: center;
+    width: 60%;
+    float: center;
+    padding-left: 500px;
+}
+.busca2 input {
+    background-image: url(../img/icone-search.png);
+    background-repeat: no-repeat;
+    height: 60px;
+    padding: 12px;
+    width: 400px;
+    margin-top: 0px;
+    background-position: 96%;
+    border: 1px solid #d6d6d6;
+}
